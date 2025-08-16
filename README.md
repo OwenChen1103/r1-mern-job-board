@@ -20,15 +20,16 @@ A modern job board application built with Next.js + NestJS + MongoDB.
 ## 📸 Screenshots
 
 ### 1. Job List View
-![Job List](./screenshots/job-list.png)
+<img width="1638" height="920" alt="image" src="https://github.com/user-attachments/assets/12a465f0-530d-4945-99a4-d1f1f9c98235" />
 *Main job listings table with gradient header and modern design*
 
 ### 2. Add New Job Modal
-![Add Job](./screenshots/add-job.png)
+<img width="1575" height="931" alt="image" src="https://github.com/user-attachments/assets/825892da-3869-4ac8-99ec-da8f722a2ada" />
+<img width="379" height="166" alt="image" src="https://github.com/user-attachments/assets/3de11d0f-221e-4dbf-9c1d-f4fbbae60091" />
 *Form modal for creating new job postings*
 
 ### 3. Edit Job Modal
-![Edit Job](./screenshots/edit-job.png)
+<img width="1621" height="952" alt="image" src="https://github.com/user-attachments/assets/91005319-e0d3-4429-b306-a41a05ce0d28" />
 *Pre-filled form for editing existing jobs*
 
 ## 🚀 Quick Start
