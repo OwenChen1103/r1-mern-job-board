@@ -1,4 +1,4 @@
-<img width="1591" height="923" alt="image" src="https://github.com/user-attachments/assets/2e62872b-0afe-4d20-ab49-e82a879b4e29" /># 🚀 Job Board CRUD App
+# 🚀 Job Board CRUD App
 
 A modern job board application built with Next.js + NestJS + MongoDB.
 
