@@ -11,11 +11,11 @@ A modern job board application built with Next.js + NestJS + MongoDB.
 
 ## ✨ Core Features
 
-- 📋 Display job listings (title, company, location)
-- ➕ Add new job
-- ✏️ Edit existing job
-- 🗑️ Delete job
-- 🔔 Success/Error toast notifications
+- Display job listings (title, company, location)
+- Add new job
+- Edit existing job
+- Delete job
+- Success/Error toast notifications
 
 ## 📸 Screenshots
 
@@ -162,4 +162,4 @@ This project demonstrates:
 
 ---
 
-**Built with ❤️ using Next.js, NestJS, and MongoDB**
+**Built with using Next.js, NestJS, and MongoDB**
