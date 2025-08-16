@@ -25,12 +25,18 @@ A modern job board application built with Next.js + NestJS + MongoDB.
 
 ### 2. Add New Job Modal
 <img width="1575" height="931" alt="image" src="https://github.com/user-attachments/assets/825892da-3869-4ac8-99ec-da8f722a2ada" />
-<img width="379" height="166" alt="image" src="https://github.com/user-attachments/assets/3de11d0f-221e-4dbf-9c1d-f4fbbae60091" />
+<img width="356" height="96" alt="image" src="https://github.com/user-attachments/assets/bd0d6fb1-7c24-4dc1-9c85-d33f1893170d" />
+
 *Form modal for creating new job postings*
 
 ### 3. Edit Job Modal
 <img width="1621" height="952" alt="image" src="https://github.com/user-attachments/assets/91005319-e0d3-4429-b306-a41a05ce0d28" />
 *Pre-filled form for editing existing jobs*
+
+### 4. Delete Job Modal
+<img width="1510" height="902" alt="image" src="https://github.com/user-attachments/assets/c3ae2037-8d2f-47ca-8298-293693109c4f" />
+*Confirmation modal for deleting job postings*
+
 
 ## 🚀 Quick Start
 
