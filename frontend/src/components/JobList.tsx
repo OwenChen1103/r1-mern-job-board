@@ -44,6 +44,9 @@ const JobList: React.FC<JobListProps> = ({ jobs, onEdit, onDelete }) => {
                 Location
               </th>
               <th className="px-6 py-4 text-left text-xs font-semibold text-white uppercase tracking-wider">
+                Salary
+              </th>
+              <th className="px-6 py-4 text-left text-xs font-semibold text-white uppercase tracking-wider">
                 Type
               </th>
               <th className="px-6 py-4 text-left text-xs font-semibold text-white uppercase tracking-wider">

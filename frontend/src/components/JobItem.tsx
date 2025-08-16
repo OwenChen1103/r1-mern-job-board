@@ -70,6 +70,15 @@ const JobItem: React.FC<JobItemProps> = ({ job, onEdit, onDelete }) => {
           </div>
         </td>
         <td className="px-6 py-5 whitespace-nowrap">
+          <div className="text-sm text-gray-900">
+            {job.salary ? (
+              <span className="font-medium text-green-600">{job.salary}</span>
+            ) : (
+              <span className="text-gray-400 italic">Not specified</span>
+            )}
+          </div>
+        </td>
+        <td className="px-6 py-5 whitespace-nowrap">
           {getTypeBadge(job.type)}
         </td>
         <td className="px-6 py-5 whitespace-nowrap">

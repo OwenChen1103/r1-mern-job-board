@@ -17,7 +17,7 @@ export class JobsService {
   }
 
   async findAll(): Promise<Job[]> {
-    return this.jobModel.find({ status: 'Active' }).sort({ createdAt: -1 }).exec();
+    return this.jobModel.find({ status: { $ne: 'Deleted' } }).sort({ createdAt: -1 }).exec();
   }
 
   async findOne(id: string): Promise<Job> {
