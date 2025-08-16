@@ -1,4 +1,4 @@
-# 🚀 Job Board CRUD App
+<img width="1591" height="923" alt="image" src="https://github.com/user-attachments/assets/2e62872b-0afe-4d20-ab49-e82a879b4e29" /># 🚀 Job Board CRUD App
 
 A modern job board application built with Next.js + NestJS + MongoDB.
 
@@ -20,22 +20,25 @@ A modern job board application built with Next.js + NestJS + MongoDB.
 ## 📸 Screenshots
 
 ### 1. Job List View
-<img width="1638" height="920" alt="image" src="https://github.com/user-attachments/assets/12a465f0-530d-4945-99a4-d1f1f9c98235" />
+<img width="1591" height="932" alt="image" src="https://github.com/user-attachments/assets/cbe26a5b-23a5-4a95-a168-d5e8fd522e12" />
 *Main job listings table with gradient header and modern design*
 
 ### 2. Add New Job Modal
-<img width="1575" height="931" alt="image" src="https://github.com/user-attachments/assets/825892da-3869-4ac8-99ec-da8f722a2ada" />
-<img width="356" height="96" alt="image" src="https://github.com/user-attachments/assets/bd0d6fb1-7c24-4dc1-9c85-d33f1893170d" />
-
+<img width="1566" height="939" alt="image" src="https://github.com/user-attachments/assets/e0e80c19-e200-4da3-b484-e93518d675f1" />
 *Form modal for creating new job postings*
 
 ### 3. Edit Job Modal
-<img width="1621" height="952" alt="image" src="https://github.com/user-attachments/assets/91005319-e0d3-4429-b306-a41a05ce0d28" />
+<img width="1709" height="976" alt="image" src="https://github.com/user-attachments/assets/6965a5a8-635f-47c1-ba86-537e96ed661f" />
 *Pre-filled form for editing existing jobs*
 
 ### 4. Delete Job Modal
-<img width="1510" height="902" alt="image" src="https://github.com/user-attachments/assets/c3ae2037-8d2f-47ca-8298-293693109c4f" />
+<img width="1709" height="976" alt="image" src="https://github.com/user-attachments/assets/116807ac-c736-4d5f-99a0-c1b8b362a507" />
 *Confirmation modal for deleting job postings*
+
+### 5. Success & Error Toast Notifications
+<img width="1709" height="976" alt="image" src="https://github.com/user-attachments/assets/acefc980-c5e0-4a0f-bb6a-7ca5f3b97fee" />
+<img width="1709" height="976" alt="image" src="https://github.com/user-attachments/assets/7f4c8600-8d7b-4ddc-a375-20819b044886" />
+*Toast messages providing instant feedback for success (green) and error (red) actions*
 
 
 ## 🚀 Quick Start
